@@ -1,0 +1,14 @@
+{
+  "NotebookApp": {
+    "password_required": false,
+    "ip": "*",
+    "password": "",
+    "nbserver_extensions": {
+      "jupyterlab": true
+    },
+	"default_url":"/lab",
+    "notebook_dir": ".",
+    "open_browser": true,
+    "port": 9000
+  }
+}
